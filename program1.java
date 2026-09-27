@@ -8,7 +8,7 @@ can be private y/n:
   Constructor → yes (less common, but legal — used when you want to force object creation only through certain other methods, e.g. a factory method)
 */
 
-public class Main {
+public class program1 {
   public static void fullThrottle() {
     System.out.println("The car is going as fast as it can!");
     //cannot access keys here bcs it isnt static
