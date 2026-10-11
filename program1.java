@@ -27,7 +27,7 @@ public class program1 {
   
   public static void main(String[] args) {
       fullThrottle();
-      Main car = new Main();
+      program1 car = new program1();
       car.speed(200);
   }
 }
